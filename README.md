@@ -3,7 +3,7 @@
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/frayluis2931/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fray-luis-03b7a621a/)
 
-![Fraluis GitHub stats](https://github-readme-stats.vercel.app/api?username=frayluis&show_icons=true&theme=tokyonight)
+![Frayluis08 GitHub stats](https://github-readme-stats.vercel.app/api?username=frayluis08&show_icons=true&theme=tokyonight)
 
 
 ## Tecnologias e editor de images que eu uso no meu dia dia 
