@@ -3,7 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!+Bem-Vindo(a)+👋;Sou+Fray+Luis;Dev+Front-End&=true&size=30">
   </a>
 </h1>
+
 🧑🏽Prazer, meu nome é Fray!!
+
 👨🏽‍🎓 Me formando em Desenvolvimento Web na Mais1code!
 
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/frayluis2931/)
